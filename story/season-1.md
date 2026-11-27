@@ -107,7 +107,7 @@ White-haired orphans with nothing to their names start out in the slums of Kama 
   - Tanzu won't wait for permission.
 - **III:**
   - Artemis and Azlan clash with the other prisoners. Aila recognises one of them and helps beat him.
-  - Tanzu breaks in and starts freeing prisoners. Koto follows her to stop her and gets pulled into the escape.
+  - Tanzu breaks in and starts freeing prisoners **before Tibs' outside crew can act**, so his own breakout never happens. Koto follows her to stop her and gets pulled into the escape.
   - **The group refuses to free Tibs.** He laughs and is *proud* that Artemis finally refused to be manipulated. His last help is a secret passage to the abandoned Trion shipyard.
   - Artemis frees Aila, and they **escape by sea**, leaving Tibs behind.
   - As he leaves, Artemis repeats: **"Remember, Tibs. Let me find out."**
@@ -233,9 +233,9 @@ White-haired orphans with nothing to their names start out in the slums of Kama 
    - Why is she in Phylomina, and did she leave by choice?
    - In Ep 1A, Tibs tells the elders she "had things to do before she left her kids in my care." Later he told Artemis she had been **arrested**. Was that a lie on top of a lie, or did the arrest really happen and later lead to Phylomina?
    - What does Tibs still know that he isn't saying?
-4. **Tibs' prison-break plan vs Tanzu's break-in (Ep 8).** Does Tanzu's break-in get ahead of the plan his "boys" have ready, coincide with it, or get mistaken for it? Does his outside crew act anyway?
-5. **Afina and Artemis's origin.** These are still open.
-6. **Do the two storylines cross** before 30A/B?
+4. **Afina and Artemis's origin.** These are still open.
+5. **Do the two storylines cross** before 30A/B?
+6. **Tibs after Ep 8.** His crew is still outside with a breakout ready. Do they spring him later, off-screen or in an odd episode? *(Proposed: Tibs comes back free in Act III, which makes "Let me find out" a live threat.)*
 
 ## Continuity flags (between the episodes and the wiki)
 | Item | Episodes / Notion | Wiki | Note |
