@@ -76,6 +76,7 @@ White-haired orphans with nothing to their names start out in the slums of Kama 
 ### Act II: Consequences (6, 8, 10, 12, 14)
 
 **Ep 6. "Among Thieves"** (Notion beats). Told from **Azra's** point of view.
+- **Chronology:** Ep 6 likely happens **before Ep 4**. Tibs is arrested after the failed heist and has a while in Trion's gaol to think things over before Artemis arrives in Ep 8.
 - **I:** Azra wakes from the **Cerulean Dream**: she and Artemis lie silent in a field of blue reeds, a peace like death. She takes it as an omen. She keeps a hyper-disciplined routine and clutches **a trinket Artemis gave her** years ago. She stands apart from the gang, and the spark she had in 1A is gone.
 - **II:** Tibs pitches a **heist** that will settle everyone's debts, and he will lead point himself. The target is most likely the **Bank of Pearls**. He looks strained. In private he admits he is filling in for Artemis because she failed to bring him in: "It would've been perfect. You ever taste perfect, Azra?"
 - **III:** Her crew is a rival who resents Tibs' favour, a Tibs fanatic, and an orphan boy who idolises her and whom she keeps at arm's length. The alarm is raised and someone Tibs promised would be fine dies. Azra saves the boy. Tibs snaps: "If you had done what you were told and brought my boy back!"
@@ -88,6 +89,18 @@ White-haired orphans with nothing to their names start out in the slums of Kama 
 - **I:**
   - Artemis and Azlan are in **Trion's gaol**, where their relationship breaks down. Azlan is fed up with Artemis's recklessness, and Artemis won't take responsibility. They still have to work together.
   - **Tibs is a prisoner there too**, the result of Ep 6's raid. He plays the concerned father figure, and Artemis plays along while planning to leave him behind.
+  - **The scene between Tibs and Artemis** (the author's beats):
+    - Tibs has spent his time inside thinking it over and **learned the wrong lessons**. He pitches Artemis on **one last score**, and Artemis sees right through it.
+    - Tibs says he has been planning a way out for about a week, with "his boys" on the outside ready to stage a prison break. "Common folk, prisoners, gaolers, I've got eyes and ears everywhere."
+    - Artemis scoffs and asks what that has to do with him. Tibs's confidence cracks and he admits he has been struggling. Artemis: "Yeah, no kidding."
+    - Tibs says Artemis **wasn't in the plan at first**, and he would rather not have chased him at all. He understands why Artemis ran off all those years ago and has been trying to change since. But it caught up with him ("…It always does"), and here he is.
+    - He has been losing loyal friends: "Truth is, I've been running out of options… and running short on time." Artemis stays quiet and unmoved, sure it's manipulation.
+    - "I only told Azra to go find you because I knew she could. She knew you the best out of any of us." This calls back to their confrontation in Ep 2.
+    - Artemis, annoyed by the memories, turns to go. Tibs: "Well, do I have to beg, kid? Did you wanna get out of here or not?"
+    - Artemis turns back: "All those years ago when I asked what happened to Midori, you said she was arrested… Was I a fool to trust you?" Tibs, stunned, hesitates: "No." Artemis: "Then where is she?"
+    - Tibs squints, searching for words. That small hesitation sets Artemis off, and he steps in close: "Let me find out she died and I'll–"
+    - Tibs cuts him off: **Midori is alive and has been living in Phylomina for the last few years.**
+    - Artemis still has no real reason to trust him and steps back to think.
   - **Aila** is in the gaol as well. She looks out only for herself, and Artemis tries to win her trust.
 - **II:**
   - Koto, wracked with guilt, pleads with Onfroi, who refuses. She learns that obedience isn't the same as doing right.
@@ -97,6 +110,7 @@ White-haired orphans with nothing to their names start out in the slums of Kama 
   - Tanzu breaks in and starts freeing prisoners. Koto follows her to stop her and gets pulled into the escape.
   - **The group refuses to free Tibs.** He laughs and is *proud* that Artemis finally refused to be manipulated. His last help is a secret passage to the abandoned Trion shipyard.
   - Artemis frees Aila, and they **escape by sea**, leaving Tibs behind.
+  - As he leaves, Artemis repeats: **"Remember, Tibs. Let me find out."**
 - **Amari** learns that his client has been arrested and **keeps hunting Artemis anyway**. This is his second failure.
 
 **Ep 10. "Joint Efforts"** (Notion beats, plus the old draft)
@@ -139,7 +153,8 @@ White-haired orphans with nothing to their names start out in the slums of Kama 
 - **Amari's showdown.** He has gone rogue to kill Artemis, and Tibs, in gaol, doesn't know. Ep 16 or 18. Proposed: if Tibs ever learns of it, he turns against Amari.
 - **The Bank of Pearls:** what the heist in Ep 6 was after, and its fallout. Orsena is jointly ruled by the Bank and the Savvad crown, so it is already the setting of Ep 14.
 - **Azra acts on her choice**, as Ep 6 sets up. She brings back the trinket and the Cerulean Dream.
-- **The truth about Afina and Midori.**
+- **Midori in Phylomina.** Tibs says she is alive and living there. Phylomina is **Vaenera's** city, and Azra spent part of her childhood there. *(Proposed: Artemis's search for Midori takes the gang to Phylomina, which leads to Azra meeting Vaenera and to Vaenera's entry into the main story. It also tests whether Tibs told the truth: "Let me find out.")*
+- **The truth about Afina.**
 - **Augmen returns.** Neru'Augma completes the resurrection.
 - **Karlaine falls** (about Ep 20). Augmen levels it, possibly during the Royal Conclave.
 
@@ -176,7 +191,8 @@ White-haired orphans with nothing to their names start out in the slums of Kama 
 - A father figure whose love comes with strings.
 - **He cares about Artemis**, and only about Artemis. "No loose ends" is his dark side talking; he doesn't truly want Artemis dead.
 - **Ep 6:** his heist collapses and he grows paranoid.
-- **Ep 8:** jailed, left behind, proud of Artemis.
+- **Ep 8:** jailed after thinking it over, he **learns the wrong lessons** and tries "one last score" on Artemis. When his confidence cracks, the person underneath shows through: he says he never wanted to chase Artemis, has been trying to change, and is running out of friends and time.
+- He gives up **Midori's whereabouts** under pressure, then is left behind, still proud of Artemis.
 - He doesn't know that Amari has gone rogue.
 
 **Amari, "the Tirvaan"**
@@ -211,9 +227,15 @@ White-haired orphans with nothing to their names start out in the slums of Kama 
    - **(a)** The target is a Bank of Pearls shipment or branch on Talvarian ground, near Trion.
    - **(b)** Tibs is caught in the Anklan Isles and **handed over to Trion**, because Onfroi wants him for the Kama gang or for Azlan's homestead.
    - **(c)** The gang's hideout is near Trion (Tibs "has a place in Trion"), and the raid at the end of Ep 6 is the arrest. The heist itself can happen anywhere.
+   - With Ep 6 now before Ep 4, option (c) fits best: the raid at the end of Ep 6 ends with Tibs in Trion's gaol.
 2. **How Aila is introduced** in the revised Ep 4.
-3. **Afina, Midori and Artemis's origin.** These are still open.
-4. **Do the two storylines cross** before 30A/B?
+3. **Midori.**
+   - Why is she in Phylomina, and did she leave by choice?
+   - In Ep 1A, Tibs tells the elders she "had things to do before she left her kids in my care." Later he told Artemis she had been **arrested**. Was that a lie on top of a lie, or did the arrest really happen and later lead to Phylomina?
+   - What does Tibs still know that he isn't saying?
+4. **Tibs' prison-break plan vs Tanzu's break-in (Ep 8).** Does Tanzu's break-in get ahead of the plan his "boys" have ready, coincide with it, or get mistaken for it? Does his outside crew act anyway?
+5. **Afina and Artemis's origin.** These are still open.
+6. **Do the two storylines cross** before 30A/B?
 
 ## Continuity flags (between the episodes and the wiki)
 | Item | Episodes / Notion | Wiki | Note |
